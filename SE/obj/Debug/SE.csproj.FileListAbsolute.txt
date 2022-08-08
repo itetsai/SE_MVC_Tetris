@@ -76,3 +76,14 @@ C:\Users\school\Desktop\P\SE\SE\obj\Debug\SE.csproj.GenerateResource.cache
 C:\Users\school\Desktop\P\SE\SE\obj\Debug\SE.csproj.CoreCompileInputs.cache
 C:\Users\school\Desktop\P\SE\SE\obj\Debug\SE.exe
 C:\Users\school\Desktop\P\SE\SE\obj\Debug\SE.pdb
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\bin\Debug\SE.exe.config
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\bin\Debug\SE.exe
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\bin\Debug\SE.pdb
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\obj\Debug\SE.csprojResolveAssemblyReference.cache
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\obj\Debug\SE.B10415020.resources
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\obj\Debug\SE.Properties.Resources.resources
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\obj\Debug\SE.TetrisView.resources
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\obj\Debug\SE.csproj.GenerateResource.cache
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\obj\Debug\SE.csproj.CoreCompileInputs.cache
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\obj\Debug\SE.exe
+C:\Users\school\Desktop\P\SE_MVC_Tetris\SE\obj\Debug\SE.pdb
