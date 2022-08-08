@@ -8,3 +8,5 @@ NTUST Software Engineer MVC design pattern
 - 左：向左
 - 右：向右
 - 空白鍵：直接落下
+
+![](https://github.com/itetsai/SE_MVC_Tetris/blob/main/img/view.jpg)
